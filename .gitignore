@@ -1,0 +1,22 @@
+# 常见 IDE 与构建产物
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Visual Studio 临时文件
+*.cache
+*.pdb
+*.ilk
+*.log
+
+# 日志与临时文件
+*.log
+temp/
+tmp/
+
+# 操作系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
